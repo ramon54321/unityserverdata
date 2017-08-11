@@ -1,7 +1,5 @@
 {
-  "speed": {
-    "forward": "3.5",
-    "backward": "1.2",
-    "sideward": "0.8"
-  }
+  "forward": "3.5",
+  "backward": "1.2",
+  "sideward": "0.8"
 }
